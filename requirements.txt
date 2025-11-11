@@ -1,0 +1,5 @@
+# Scrapy Framework
+Scrapy>=2.11
+
+# Interactive CLI
+questionary>=2.0.0
