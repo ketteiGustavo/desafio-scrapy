@@ -9,9 +9,13 @@
 **Um scraper robusto em Python para extrair, padronizar e salvar dados de processos judiciais do portal de consulta pública do Tribunal Regional Federal da 5ª Região (TRF5).**
 
 [![Mantido](https://img.shields.io/badge/Mantido%3F-sim-green.svg)](https://github.com/ketteiGustavo/desafio-scrapy)
-[![Maintainer](https://img.shields.io/badge/mantenedor-luizgustavo-blue)](#)
+[![Maintainer](https://img.shields.io/badge/mantenedor-luizgustavo-blue)](https://github.com/ketteiGustavo)
 [![PRs Welcome](https://img.shields.io/badge/PRs-bem--vindas-brightgreen.svg?style=flat-square)](https://github.com/ketteiGustavo/desafio-scrapy/pulls)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+[![Changelog](https://img.shields.io/badge/Changelog-md-blue)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-md-blue)](CODE_OF_CONDUCT.md)
+[![Contributing](https://img.shields.io/badge/Contributing-md-green)](CONTRIBUTING.md)
 
 </div>
 <div align="center">
@@ -72,6 +76,8 @@ O projeto foi desenhado para ser eficiente, lidando com a busca por múltiplos c
     - [Descrição dos Arquivos de Configuração](#descrição-dos-arquivos-de-configuração)
   - [📚 Documentação Adicional](#-documentação-adicional)
   - [🤝 Contribuindo](#-contribuindo)
+  - [📄 LICENÇA](#-licença)
+  - [🤝 CONTRIBUINDO COM ESSE PROJETO](#-contribuindo-com-esse-projeto)
   - [🤝 CONTRIBUIÇÕES E CONTRIBUIDORES ✒️](#-contribuições-e-contribuidores-️)
   - [🚫 .gitignore (Recomendado)](#-gitignore-recomendado)
 
@@ -253,6 +259,27 @@ Para contribuir, por favor, siga estes passos:
     - Faça o push das suas alterações para o seu fork.
     - Abra um Pull Request para a branch `main` do repositório original.
     - Preencha o template do Pull Request com os detalhes da sua contribuição.
+
+---
+
+## 📄 LICENÇA
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+---
+
+## 🤝 CONTRIBUINDO COM ESSE PROJETO
+
+Contribuições são sempre bem-vindas!
+
+Tente criar relatórios de bugs que seja:
+
+- Reproduzível. Inclua etapas para reproduzir o problema.
+- Específico. Inclua o máximo de detalhes possível: qual versão, qual ambiente, etc.
+- Único. Não duplique problemas abertos existentes.
+- Escopo para um único bug. Um bug por relatório.
+
+> Siga o [Código de Conduta](CODE_OF_CONDUCT.md) desse projeto.
 
 ---
 

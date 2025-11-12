@@ -2,3 +2,4 @@
 - :✨: feat: projeto inicializado (por: Luiz Gustavo em 11-11-2025 18:45)
 - :✨: feat: projeto inicializado (por: Luiz Gustavo em 11-11-2025 18:52)
 - :✨: feat: projeto inicializado (por: Luiz Gustavo em 11-11-2025 18:53)
+- :📚: docs: novas documentações e licença do projeto (por: Luiz Gustavo em 12-11-2025 07:45)
